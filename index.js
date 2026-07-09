@@ -8,6 +8,9 @@ function convertToUpperCase(text){
     return text.toUpperCase();
 }
 
+function findMaximum(num1,num2){
+    return Math.max(num1,num2);
+}
 
 
 

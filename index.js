@@ -4,6 +4,10 @@ function calculateTax(amount){
 
 }
 
+function convertToUpperCase(text){
+    return text.toUpperCase();
+}
+
 
 
 
